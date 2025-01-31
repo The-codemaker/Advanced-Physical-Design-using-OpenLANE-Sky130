@@ -3,6 +3,5 @@
 ### Theory
 <details>
   <summary>Expand or collapse</summary>
-  ![Image Alt text](https://github.com/The-codemaker/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/Screenshot%202025-01-31%20133503.png
-  ![Image Alt text](https://github.com/The-codemaker/Advanced-Physical-Design-using-OpenLANE-Sky130/blob/main/Screenshot%202025-01-31%20133503.png "An Arduino UNO Board"))
+  In a microcontroller circuit board like [this] one
 </details>
