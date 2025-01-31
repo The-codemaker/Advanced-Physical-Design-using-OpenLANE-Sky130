@@ -4,7 +4,6 @@
 <details>
   <summary>Expand or collapse</summary>
   ![Image Alt text](/images/img.jpg
-
-![Image Alt text](/images/img.jpg "Optional title"))
+  ![Image Alt text](/images/img.jpg "Optional title"))
 
 </details>
